@@ -47,7 +47,7 @@ function App() {
       )
     : (
         <div className="empty">
-          <h2>No search results found</h2>
+          <h2>No search found</h2>
         </div>
       )
 }
